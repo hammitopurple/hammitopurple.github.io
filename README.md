@@ -1,2 +1,7 @@
-# Blog
-Adding a README if not this looks plain and boring otherwise.
+# README.md
+Corner of the internet for my unfiltered thoughts.
+
+Note to self:
+```bash
+hugo new content posts/new-post.md
+```
