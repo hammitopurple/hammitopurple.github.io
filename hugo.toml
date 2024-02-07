@@ -5,3 +5,10 @@ theme = 'PaperMod'
 
 [params]
 defaultTheme = 'auto'
+
+# add an about page i guess
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/about/"
+weight = 1
