@@ -1,19 +1,23 @@
 # README.md
+
 Corner of the internet for my unfiltered thoughts.
 
-# Note to self
+## Reminders
 
-## Create a new post
+### Create a new post
+
 ```bash
 hugo new content posts/new-post.md
 ```
 
-## Create a new page
+### Create a new page
+
 ```bash
 hugo new about.md
 ```
 
-## Start the local development server
+### Start the local development server
+
 ```bash
 hugo server
 ```
