@@ -23,5 +23,5 @@ learning Rust.
 
 This post is not going to be a deep dive or discussion of any features in Rust,
 it's purely meant to celebrate my own accomplishments. My motivations for learning
-Rust was to apply it in my `$dayjob`, and to also prove something to the me from
+Rust were to apply it in my `$dayjob`, and to also prove something to the me from
 a decade ago who gave up on Chapter 2 of The Rust Programming Language.
