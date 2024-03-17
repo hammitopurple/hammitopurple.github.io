@@ -7,7 +7,7 @@ Corner of the internet for my unfiltered thoughts.
 ### Create a new post
 
 ```bash
-hugo new content posts/new-post.md
+hugo new content blog/new-post.md
 ```
 
 ### Create a new page
